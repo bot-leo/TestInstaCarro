@@ -1,0 +1,50 @@
+.Header{
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  overflow: hidden;
+}
+.headerContent{
+  display: flex;
+width: 100%;
+overflow: hidden;
+justify-content: space-between;
+padding: 0 105px;
+height: 100%;
+}
+.Logo{
+  width: 40%;
+}
+.containerLogo{
+  display: flex;
+justify-content: space-between;
+align-items: center;
+  
+}
+.TelefoneContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 35%;
+  height: 100%;
+}
+.imgPhone{
+  width: 15%;
+}
+.Contato{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+}
+.UserBox {
+  display: flex;
+  border-width: 3px;
+  justify-content: space-around;
+  align-items: center;
+  width: 15%;
+  border-style: solid;
+  border-color: #ebebeb;
+  height: 100%;
+ 
+}

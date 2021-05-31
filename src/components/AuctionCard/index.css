@@ -1,0 +1,142 @@
+.CardAuction{
+  background-color: #fff;
+  width: 45vh;
+  height: 70vh;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+    flex-direction: column;
+}
+.ImgCar{
+  width: 100%;
+  height: auto;
+}
+.footerCard{
+  width: 100%;
+  height: 100%;
+  padding-top: 20px;
+}
+.Padding{
+  padding: 0 10px;
+}
+
+.ContenteCard{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom-width: 2px;
+  border-bottom-color: #e4e4e4;
+  border-style: solid;
+  border-top-color: #fff;
+  border-left-color: #fff;
+  padding-bottom: 10px;
+  border-right-color: #fff;
+}
+.ContentValues{
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  border-width: 2px;
+      border-top-width: 2px;
+  border-style: solid;
+      border-top-style: solid;
+  width: 50%;
+  align-content: center;
+  border-bottom-color: #fff;
+  border-top: #fff;
+  border-left-color: #fff;
+  border-right-color: #e4e4e4;
+}
+.ContentValueAmount{
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+ 
+  width: 50%;
+  align-content: center;
+
+}
+
+.Title{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 0.6em;
+  color: #a0a0a0;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  margin: 0;
+}
+.Time{
+  color: #ff6d4a;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    margin: 0;
+    text-align: center;
+}
+.Value{
+  color:  #3eb871;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  margin: 0;
+  text-align: center;
+}
+
+
+.CarModel{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  border-bottom-width: 2px;
+  border-bottom-color: #e4e4e4;
+  border-style: solid;
+  border-top-color: #fff;
+  border-left-color: #fff;
+  border-right-color: #fff;
+}
+.NameCar{
+  color: #323232;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.8em;
+  text-align: center;
+  font-weight: 800;
+}
+.InfoCar{
+  display: flex;
+    width: 100%;
+    padding: 5px 0px;
+    margin-bottom: 10px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #e4e4e4;
+}
+.AnoCar{
+  width: 50%;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-right-color: #e4e4e4;
+    height: 100%;
+}
+.KmCar{
+  width: 50%;
+  height: 100%;
+}
+.TitleInfoCar{
+  color: #000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.8em;
+  text-align: center;
+  margin: 0
+
+}
+
+.FooterButton{
+  justify-content: center;
+  align-items: baseline;
+  display: flex;
+  width: 100%;
+
+}

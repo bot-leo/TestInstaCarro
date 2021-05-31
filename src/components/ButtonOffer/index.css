@@ -1,0 +1,19 @@
+
+.ButtonOffer{
+  appearance: none;
+  background: #3eb871;
+  width: 95%;
+  border-radius: 5px;
+  border: none;
+  height: 40px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.TextButtonOffer{
+  color: #fff;
+font-size: 1em;
+font-weight: 600;
+font-family: 'Open sans';
+text-transform: uppercase;
+}

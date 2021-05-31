@@ -1,0 +1,27 @@
+.UserBox {
+  display: flex;
+border-width: 3px;
+justify-content: space-around;
+align-items: center;
+width: 15%;
+border-style: solid;
+border-color: #ebebeb;
+height: 100%;
+ 
+}
+.AvatarBox {
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100%;
+width: 100%;
+}
+.imgAvatar {
+  width: 20%;
+}
+
+.NickName {
+  font-family: open sans;
+  font-size: 1em;
+}
